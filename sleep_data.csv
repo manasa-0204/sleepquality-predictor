@@ -1,0 +1,26 @@
+
+sleep,screen,caffeine,stress,sleep_quality
+Good,Low,None,Low,Excellent
+Good,Low,Low,Low,Very Good
+Good,Low,None,Low,Excellent
+Poor,High,High,High,Very Poor
+Poor,High,High,High,Very Poor
+Good,Medium,Low,Medium,Good
+Average,Medium,Medium,Medium,Medium
+Good,Low,None,Low,Excellent
+Poor,High,High,High,Very Poor
+Good,Low,Low,Low,Very Good
+Average,Medium,Medium,Medium,Medium
+Poor,High,High,High,Very Poor
+Good,Low,Low,Low,Very Good
+Good,Low,None,Low,Excellent
+Average,High,Medium,High,Poor
+Poor,High,High,High,Very Poor
+Good,Medium,Low,Medium,Good
+Good,Low,None,Low,Excellent
+Average,High,High,High,Poor
+Good,Low,None,Low,Excellent
+Poor,High,High,High,Very Poor
+Good,Medium,Low,Low,Good
+Average,Medium,Medium,Medium,Medium
+Good,Low,Low,Low,Very Good
